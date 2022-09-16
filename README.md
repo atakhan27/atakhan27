@@ -1,7 +1,9 @@
 [![MasterHead]( https://miro.medium.com/max/1400/1*qVL2mMtZ1MgNaykylZqW_Q.gif)]( https://tenterapp.com/)
-   <h1 align="center">Hi there, I'm Atakhan Ahmadov 👋</h1>
+
+<h1 align="center">Hi there, I'm Atakhan Ahmadov 👋</h1>
 <h3 align="center">IT Student at ADA University | Co-founder & CMO at Tenter startup</h3>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atakhan27&label=Profile%20views&color=0e75b6&style=flat" alt="atakhan27" /> </p>
 
@@ -29,5 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atakhan27&show_icons=true&locale=en" alt="atakhan27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atakhan27&" alt="atakhan27" /></p>
-
-![image](https://user-images.githubusercontent.com/65177542/190656881-f2954ef6-7f71-4a9e-893b-304d88a1419b.png)
