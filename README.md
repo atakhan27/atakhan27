@@ -9,6 +9,8 @@
 
 - 🌱 Learning more about and studying **ML, React, Django, SQL**
 
+- 💬 Ask me about anything, I am happy to help
+
 - 📫 How to reach me **aahmedov13464@ada.edu.az**
 
 <h3 align="left">Connect with me:</h3>
