@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atakhan27&label=Profile%20views&color=0e75b6&style=flat" alt="atakhan27" /> </p>
 
-- 💠 I’m currently working full-time with awesome team at [@tenterapp](https://tenterapp.com/)
+- 💠 I’m currently working full-time with my awesome team at [@tenterapp](https://tenterapp.com/)
 
 - 🌱 Learning more about and studying **ML, React, Django, SQL**
 
