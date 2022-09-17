@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/atakhan ahmadov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atakhan ahmadov" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/atakhan-ahmadov-7a3b94202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atakhan ahmadov" height="30" width="40" /></a>
 <a href="https://kaggle.com/atakhanahmadbey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="atakhanahmadbey" height="30" width="40" /></a>
-<a href="https://fb.com/atakhan ahmadov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atakhan ahmadov" height="30" width="40" /></a>
+<a href="https://www.facebook.com/atakhanahmadbay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atakhan ahmadov" height="30" width="40" /></a>
 <a href="https://instagram.com/atakhanahmadbey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atakhanahmadbey" height="30" width="40" /></a>
 </p>
 
