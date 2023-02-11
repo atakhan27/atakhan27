@@ -9,7 +9,7 @@
 
 - 💠 I’m currently working full-time with my awesome team at [@tenterapp](https://tenterapp.com/)
 
-- 🌱 Learning more about and studying **ML, React, Django, SQL**
+- 🌱 Learning more about and studying **Machine Learning**
 
 - 💬 Ask me about anything, I am happy to help
 
